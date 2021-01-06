@@ -1,4 +1,4 @@
-# Graduate Seminars and Courses
+# Graduate Seminars and Courses, Mathematics and Data Group
 Grad Seminars I attended at NYU Courant.
 
 The Mad (Math and Data) group was created in fall 2016 by Afonso Bandeira, Joan Bruna and Carlos Fernandez-Granda, three Assistant Professors at the Courant Institute of Mathematical Sciences and the Center for Data Science at New York University.
@@ -40,3 +40,4 @@ Speaker : Anna Seigal [https://people.maths.ox.ac.uk/seigal/]
 
 Algebraic structure is at the heart of many problems in statistics and data analysis. We aim to fit data to a model, or to approximate data by a point on some locus of interest. I will discuss how algebraic structure can be used to capture the existence and uniqueness of a solution to these problems, as well as to suggest suitable algorithms. I will first consider parameter estimation in statistical models via maximum likelihood estimation. We will see connections between maximum likelihood estimation and invariant theory. I will then discuss tensors, the higher dimensional analogues of matrices. The loci of tensors that are of interest in applications often define semi-algebraic sets, given by polynomial equations and inequalities. One example is the signature, tensors that can be used to encode a path of time series data. We will see the algebraic structure that relates a path to its signature.
 
+# Graduate Seminars and Courses, Courant Institute of Mathematical Sciences
