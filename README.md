@@ -5,6 +5,8 @@ The Mad (Math and Data) group was created in fall 2016 by Afonso Bandeira, Joan 
 
 Location: <ins> 60 5th Avenue [NYU Center for Data Science] </ins>
 
+![cds](https://github.com/ashwinpn/Graduate-Seminars/blob/main/cds.png)
+
 ## Spring 2020
 
 ### Seminar - On the Effectiveness of Richardson Extrapolation in Machine Learning (Francis Bach, INRIA and Ecole Normale Superieure)
