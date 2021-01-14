@@ -47,3 +47,5 @@ Algebraic structure is at the heart of many problems in statistics and data anal
 Location: <ins> 251 Mercer St # 801, New York, NY 10012 [beside Gould Plaza] </ins>
 
 ### Advanced Topics in Numerical Analysis: Convex and Non-smooth Optimization [CSCI-GA.2945-001]
+
+# Graduate Seminars, Institute for Advanced Study, Princeton University
