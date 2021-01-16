@@ -46,6 +46,10 @@ Algebraic structure is at the heart of many problems in statistics and data anal
 
 Location: <ins> 251 Mercer St # 801, New York, NY 10012 [beside Gould Plaza] </ins>
 
+![](https://github.com/ashwinpn/Graduate-Seminars/blob/main/resources/courant%20math.png)
+
 ### Advanced Topics in Numerical Analysis: Convex and Non-smooth Optimization [CSCI-GA.2945-001]
+
+Convex optimization problems have many important properties, including a powerful duality theory and the property that any local minimum is also a global minimum. Nonsmooth optimization refers to minimization of functions that are not necessarily convex, usually locally Lipschitz, and typically not differentiable at their minimizers. Topics in convex optimization that will be covered include duality, CVX ("disciplined convex programming"), gradient and Newton methods, Nesterov's optimal gradient method, the alternating direction method of multipliers, the primal barrier method, primal-dual interior-point methods for linear and semidefinite programs. Topics in nonsmooth optimization that will be covered include subgradients and subdifferentials, Clarke regularity, and algorithms, including gradient sampling and BFGS, for nonsmooth, nonconvex optimization.
 
 # Graduate Seminars, Institute for Advanced Study, Princeton University
